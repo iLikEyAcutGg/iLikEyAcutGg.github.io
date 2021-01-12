@@ -31,3 +31,7 @@ width:180px;
 #footer {
 	clear:both; 
 }
+#AviMeilson {
+	height: 300px;
+	box-shadow: 20px 10px 5px gray;
+}
